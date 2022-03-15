@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+    "name": "AdSkip - YT ad Skipper",
+    "description": "Skip Youtube adds like a pro, no more ads and no more popups.",
+    "version": "1.0",
+    "icons": { "128": "logo.png" }
+  }
